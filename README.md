@@ -18,9 +18,9 @@ il consiste en 6 balles générées aléatoirement qui rebondissent, votre missi
 # Screanshots
 
 ## start 
-    ![image](https://github.com/YosfNaciri/Bouncy/blob/master/gameBouncy/screans/1.PNG)
+    ![Image](https://github.com/DevHardAJM/BouncedBall/blob/master/Screens/start.PNG)
 ***
 ## GameOver
-    ![image](https://github.com/YosfNaciri/Bouncy/blob/master/gameBouncy/screans/1.PNG)
+    ![Image](https://github.com/DevHardAJM/BouncedBall/blob/master/Screens/gameover.PNG)
 ***
 
